@@ -22,7 +22,7 @@ spec:
         name: flaskdemo
         env:
         - name: REGION
-          value: "GERMANY"
+          value: "Europe"
         resources: {}
 status: {}
 ---
